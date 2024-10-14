@@ -1,4 +1,4 @@
-# Course assignments
+# Course assignments & example notebooks
 ## Optimizing logistics network operations using simulation and digital twinning
 
 Managing logistics networks (e.g. ASML's service network, bike sharing systems, parcel delivery networks) can differentiate a well-running company from one battling to survive. Taking optimal operational decisions is next-to-impossible, since decisions must be taken fast (sometimes within split seconds) and are often subject to uncertainty and frequent input changes. Nonetheless, companies must gain insight into whether the decisions they take enable them to achieve the goals they set, and in this course you will learn to use simulations and digital twins for that purpose.
